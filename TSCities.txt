@@ -1,0 +1,12 @@
+Hartford Richmond Annapolis Atlanta Baton_Rouge Austin Pheonix Salt_Lake_City Denver Sacremento 
+Pheonix Sacremento 
+0 	inf 	330 	inf 	inf 	1865 	2534 	inf 	1879 	inf 
+inf 	0 	134 	521 	inf 	inf 	2248 	inf 	1671 	inf 
+330 	134 	0 	inf 	inf 	1562 	2299 	inf 	1685 	inf 
+inf 	521 	inf 	0 	524 	inf 	1806 	inf 	1404 	2468 
+inf 	inf 	inf 	524 	0 	435 	inf 	1670 	1222 	inf 
+1865 	inf 	1562 	inf 	435 	0 	1006 	1290 	909 	inf 
+2534 	2248 	2299 	1806 	inf 	1006 	0 	663 	821 	757 
+inf 	inf 	inf 	inf 	1670 	1290 	663 	0 	521 	649 
+1879 	1671 	1685 	1404 	1222 	909 	821 	521 	0 	inf 
+inf 	inf 	inf 	2468 	inf 	inf 	757 	649 	inf 	0 
